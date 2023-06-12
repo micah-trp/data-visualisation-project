@@ -22,7 +22,7 @@ Project 3 - Personal project
 - The data story is easy to interpret for users of all levels. (10 points)  
   
 ## Group Presentation (25 points)  
-All group members speak during the presentation. (5 points)  
+- All group members speak during the presentation. (5 points)  
 - The content is relevant to the project. (5 points)  
 - The presentation maintains audience interest. (5 points)  
 - Content, transitions, and conclusions flow smoothly within any time restrictions. (10 points)  
